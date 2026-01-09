@@ -2,5 +2,7 @@
 - for MSDS cohort @ UOG
 - January 10, 2026
 
-`Git.pptx`: presentation slides with exercise steps (follow these!) \\
-`/code`: might be helpful code to use? 
+`Git.pptx`: presentations slides with exercise steps (should follow this for today)
+`/code:` might be helpful guide with copy paste code????
+
+
